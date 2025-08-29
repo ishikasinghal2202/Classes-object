@@ -185,8 +185,6 @@ SAMPLE OUTPUT:
 
  CONCLUSION:
  
-        This experiment introduces the core concepts of object-oriented programming
- through the implementation of classes and objects in C++. By encapsulating
- data and behavior, and modeling real-world entities, OOP enhances code
- readability, maintainability, and scalability. Mastery of these concepts
- is essential for building robust and modular software systems.
+        This experiment introduces the core concepts of object-oriented programming through the implementation of classes and objects in C++. By encapsulating 
+        data and behavior, and modeling real-world entities, OOP enhances code readability, maintainability, and scalability. Mastery of these concepts
+        is essential for building robust and modular software systems.
